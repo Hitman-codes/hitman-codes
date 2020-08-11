@@ -4,7 +4,7 @@
 
 
 
-<p>🔭 I’m currently working on new projects with python and html</p>
+<p>🔭 I’m currently working on a automatic website creator</p>
 <p>🌱 I’m currently learning advanced topics in html,python and php</p>
 <p>👯 I’m looking to collaborate on python,html</p>
 <p>🤔 I’m looking for help with more topics and projects</p>
