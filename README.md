@@ -10,5 +10,5 @@
 <p>🤔 I’m looking for help with more topics and projects</p>
 <p>💬 Ask me about python and html</p>
 <p>📫 How to reach me:padmamithul123@gmail.com</p>
-<p>⚡ Fun fact: I hate chemistry😋😋😋😋</p>
+<p>⚡ Fun fact:I am interested in teamwork please invite me😎😎😎😎</p>
 
