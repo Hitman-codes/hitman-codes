@@ -1,4 +1,4 @@
-### Hi there 👋 I'm <a href="https://www.psmithulsourav.github.io>Mithul</a>
+### Hi there 👋 I'm Mithul
 
 
 
