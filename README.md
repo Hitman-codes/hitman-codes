@@ -11,7 +11,7 @@
 <p>💬 Ask me about python, css, js and html</p>
 <p>📫 How to reach me:padmamithul123@gmail.com</p>
 <p>⚡ Fun fact:I am interested in teamwork please invite me😎😎😎😎</p>
-### MY PROJECTS
+<h1>MY PROJECTS</h1>
 <ul>
   <li>Personnel assitant</li>
   <li>Super Calculator</li>
